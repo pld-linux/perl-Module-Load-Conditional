@@ -7,7 +7,7 @@
 %define		pdir	Module
 %define		pnam	Load-Conditional
 Summary:	Module::Load::Conditional - Looking up module information / loading at runtime
-Summary(pl.UTF-8):   Module::Load::Conditional - wyszukiwanie informacji o modułach i wczytywanie
+Summary(pl.UTF-8):	Module::Load::Conditional - wyszukiwanie informacji o modułach i wczytywanie
 Name:		perl-Module-Load-Conditional
 Version:	0.08
 Release:	0.1
