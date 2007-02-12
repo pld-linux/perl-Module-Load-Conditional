@@ -7,7 +7,7 @@
 %define		pdir	Module
 %define		pnam	Load-Conditional
 Summary:	Module::Load::Conditional - Looking up module information / loading at runtime
-Summary(pl):	Module::Load::Conditional - wyszukiwanie informacji o modu³ach i wczytywanie
+Summary(pl.UTF-8):   Module::Load::Conditional - wyszukiwanie informacji o moduÅ‚ach i wczytywanie
 Name:		perl-Module-Load-Conditional
 Version:	0.08
 Release:	0.1
@@ -36,14 +36,14 @@ It is able to load multiple modules at once or none at all if one of
 them was not able to load. It also takes care of any error checking
 and so forth.
 
-%description -l pl
-Modu³ Perla Module::Load::Conditional udostêpnia prosty sposób na
-odpytanie i ewentualne wczytanie w czasie dzia³ania programu dowolnego
-z modu³ów zainstalowanych w systemie.
+%description -l pl.UTF-8
+ModuÅ‚ Perla Module::Load::Conditional udostÄ™pnia prosty sposÃ³b na
+odpytanie i ewentualne wczytanie w czasie dziaÅ‚ania programu dowolnego
+z moduÅ‚Ã³w zainstalowanych w systemie.
 
-Pozwala wczytaæ wiele modu³ów naraz lub nie wczytaæ ¿adnego z nich,
-je¶li jednego z nich nie da siê za³adowaæ. Dba tak¿e o sprawdzanie
-b³êdów itp.
+Pozwala wczytaÄ‡ wiele moduÅ‚Ã³w naraz lub nie wczytaÄ‡ Å¼adnego z nich,
+jeÅ›li jednego z nich nie da siÄ™ zaÅ‚adowaÄ‡. Dba takÅ¼e o sprawdzanie
+bÅ‚Ä™dÃ³w itp.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
