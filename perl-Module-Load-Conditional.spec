@@ -10,7 +10,7 @@ Summary:	Module::Load::Conditional - Looking up module information / loading at 
 Summary(pl.UTF-8):	Module::Load::Conditional - wyszukiwanie informacji o modułach i wczytywanie
 Name:		perl-Module-Load-Conditional
 Version:	0.22
-Release:	0.1
+Release:	1
 # "same as perl"
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
