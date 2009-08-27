@@ -9,13 +9,13 @@
 Summary:	Module::Load::Conditional - Looking up module information / loading at runtime
 Summary(pl.UTF-8):	Module::Load::Conditional - wyszukiwanie informacji o modułach i wczytywanie
 Name:		perl-Module-Load-Conditional
-Version:	0.22
-Release:	0.1
+Version:	0.30
+Release:	1
 # "same as perl"
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	10f6911f6a774f3c20d19b5e98eb30c2
+# Source0-md5:	280cbd331a1b2705d24a0b25c7cda4c6
 URL:		http://search.cpan.org/dist/Module-Load-Conditional/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
